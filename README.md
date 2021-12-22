@@ -1,4 +1,4 @@
-![Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web developer](https://pbs.twimg.com/profile_banners/1233650693614866432/1640200276/600x200)
 
 # Hi there 👋, I am Washim Ahmed
 ## Web developer
