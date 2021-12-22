@@ -3,10 +3,9 @@
 # Hi there 👋, I am Washim Ahmed
 ## Web developer
 
-
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 47+ websites for my clients. I pride myself on doing quality work and maintaining excellent communication.
 
-Skills: HTML / CSS / SAAS / BOOTSTRAP / REACT
+Skills: HTML5 / CSS3 / SASS / BOOTSTRAP / REACT
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning React 
